@@ -4,7 +4,7 @@
 
 ```lua
 {
-  dir = "~/dev/k1/tools/nvim",
+  "kolemannix/k1.nvim",
   name = "k1.nvim",
   ft = "k1",
   config = function()
