@@ -5,7 +5,6 @@
 ```lua
 {
   "kolemannix/k1.nvim",
-  name = "k1.nvim",
   ft = "k1",
   config = function()
     require("k1").setup({
