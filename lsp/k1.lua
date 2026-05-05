@@ -5,6 +5,6 @@ return {
   root_markers = { 'main.k1', 'proj.k1', '.git' },
   cmd_env = { RUST_BACKTRACE = "1" },
   reuse_client = function(client, config)
-    true
+    return true
   end
 }
